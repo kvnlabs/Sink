@@ -26,5 +26,10 @@
       "binding": "KV",
       "id": "6c66f512b42045878653e90bb01d3f26" // IMPORTANT: Change this to your KV namespace ID
     }
+  ],
+  "observability":[
+    {
+      "enabled": true
+    }
   ]
 }
